@@ -6,23 +6,29 @@ An analysis of county elections for Colorado using Python.
 ## Election-Audit Results:
 ### 
 •	There were 369,711 votes cast in the election.
+
 •	The counties were:
   - Jefferson
   - Denver
   - Arapahoe
+ 
 •	The election results per county were:
   - Jefferson County  received 10.5% of the vote and 38,855 number of votes.
   - Denver County received 82.8% of the vote and 306,055 number of votes.
   - Arapahoe County received 6.7% of the vote and 24,801 number of votes.
-•	The county with the largest number of votes was Denver, which received 82.8% of the vote and
+ 
+•	The county with the largest number of votes was Denver, which received 82.8% of the vote and 306,055 number of votes.
+
 •	The candidates were:
   - Charles Casper Stockham
   - Diana Degette
   - Raymon Anthony Doane
+
 •	The candidate results were:
   - Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
   - Diana Degette received 73.8% of the vote and 272,892 number of votes.
   - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes. 
+
 •	The winner of the election was:
   - Diana Degette received 73.8% of the vote and 272,892 number of votes.
 

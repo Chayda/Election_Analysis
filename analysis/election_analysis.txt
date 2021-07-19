@@ -1,0 +1,30 @@
+
+Election Results
+-------------------------
+Total Votes: 369,711
+-------------------------
+
+County Votes:
+{'Jefferson': 38855, 'Denver': 306055, 'Arapahoe': 24801}-------------------------
+Winning County: Jefferson
+Largest County Vote Count: 38,855
+Winning County Percentage: 10.5%
+-------------------------
+{'Jefferson': 38855, 'Denver': 306055, 'Arapahoe': 24801}-------------------------
+Winning County: Denver
+Largest County Vote Count: 306,055
+Winning County Percentage: 82.8%
+-------------------------
+{'Jefferson': 38855, 'Denver': 306055, 'Arapahoe': 24801}-------------------------
+Winning County: Denver
+Largest County Vote Count: 306,055
+Winning County Percentage: 82.8%
+-------------------------
+Charles Casper Stockham: 23.0% (85,213)
+Diana DeGette: 73.8% (272,892)
+Raymon Anthony Doane: 3.1% (11,606)
+-------------------------
+Winner: Diana DeGette
+Winning Vote Count: 272,892
+Winning Percentage: 73.8%
+-------------------------
